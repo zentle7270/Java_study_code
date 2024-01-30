@@ -17,5 +17,5 @@ public class ExceptionMain01 {
 			System.out.println("array["+i+"]:"+array[i]);
 		}
 		System.out.println("프로그램 끝!");
-	}
+	} 
 }
